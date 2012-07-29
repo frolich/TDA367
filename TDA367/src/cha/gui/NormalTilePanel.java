@@ -20,5 +20,7 @@ public class NormalTilePanel extends TilePanel {
 		p1.setBackground(color);
 		this.add(p1,BorderLayout.NORTH);
 		p1.add(new JLabel(Integer.toString(position)));
+
+	
 	}
 }

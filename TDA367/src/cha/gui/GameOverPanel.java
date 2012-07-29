@@ -1,4 +1,4 @@
-package cha.gui;
+	package cha.gui;
 
 import java.awt.Color;
 import java.awt.Dimension;

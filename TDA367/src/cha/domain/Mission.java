@@ -94,8 +94,11 @@ public class Mission {
 			else if (category== Category.SAMECLASS){
 			title= "Same category!";
 			}
+			else if (category== Category.WORDJUMBLE){
+				title= "Word jumble!";
+			}
 			else {
-			title= "Word jumble!";
+				title = "Challenge";
 			}
 			return title;
 		}
